@@ -1,3 +1,9 @@
+///////////////Attribution Notice:////////////////////
+///This program was written by Arran Smedley, 2019/////
+///Contact at ArranSmedleyWork@gmail.com///////////////////
+///Intended for educational use.//////////////////////
+//////////////////////////////////////////////////////
+
 #pragma region Includes
 #pragma once
 // Math constants
